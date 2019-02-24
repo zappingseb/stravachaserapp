@@ -1,0 +1,1 @@
+This app is presented by [stravachser](https://github.com/zappingseb/stravachaser)
